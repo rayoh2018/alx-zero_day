@@ -1,2 +1,2 @@
- non empty readme
-ryBN
+ non empty readmuo
+update script
