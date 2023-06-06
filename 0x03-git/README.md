@@ -1,1 +1,2 @@
- non empty readme
+ non empty readmuo
+update script
